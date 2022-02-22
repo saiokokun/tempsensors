@@ -13,8 +13,4 @@ s3transfer==0.5.1
 six==1.16.0
 urllib3==1.26.8
 Werkzeug==2.0.3
-<<<<<<< HEAD
-uWSGI==2.0.20d
-=======
 uWSGI==2.0.20
->>>>>>> e7ff5e6013c83811175c7e3e02b7b48d83a7b88a
